@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://salecieb.github.io/sitemap.html.gz
+Sitemap: https://salecieb.github.io/app/sitemap.html.gz
+Sitemap: https://salecieb.github.io/assets/sitemap.html.gz
+Sitemap: https://salecieb.github.io/css/sitemap.html.gz
+Sitemap: https://salecieb.github.io/data/sitemap.html.gz
+Sitemap: https://salecieb.github.io/includes/sitemap.html.gz
+Sitemap: https://salecieb.github.io/item/sitemap.html.gz
+Sitemap: https://salecieb.github.io/src/sitemap.html.gz
